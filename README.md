@@ -69,7 +69,7 @@ Bad Loan Ratio: 13.8%
 Loan Status Table: Displays funded, received, and MTD/MOM metrics per status.
 
 
-[](https://github.com/umar9643/BANK-LOAN-ANALYSIS-SQL-POWER-BI/blob/main/Dashboard_ss/Screenshot%202025-10-31%20223631.png)
+![](https://github.com/umar9643/BANK-LOAN-ANALYSIS-SQL-POWER-BI/blob/main/Dashboard_ss/Screenshot%202025-10-31%20223631.png)
 
 
 🌍 2️⃣ Overview Page
