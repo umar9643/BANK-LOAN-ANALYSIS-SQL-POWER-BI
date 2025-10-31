@@ -93,7 +93,7 @@ Donut Chart: Funded Amount by Term (36/60 months)
 
 Treemap: Funded Amount by Home Ownership
 
-📸 Screenshot:
+![](https://github.com/umar9643/BANK-LOAN-ANALYSIS-SQL-POWER-BI/blob/main/Dashboard_ss/Screenshot%202025-10-31%20223654.png)
 
 
 📋 3️⃣ Details Page
@@ -121,7 +121,7 @@ Installment
 
 Amount Received
 
-📸 Screenshot:
+![](https://github.com/umar9643/BANK-LOAN-ANALYSIS-SQL-POWER-BI/blob/main/Dashboard_ss/Screenshot%202025-10-31%20223709.png)
 
 
 🔍 Key Insights & Findings
@@ -198,20 +198,6 @@ Marketing Focus: Promote consolidation and credit-related products, which show c
 
 Performance Monitoring: Continue expanding in states showing steady growth in loan approvals and repayments.
 
-🗂️ Folder Structure
-Bank_Loan_Report/
-│
-├── ss/
-│   ├── Screenshot1.png
-│   ├── Screenshot2.png
-│   ├── Screenshot3.png
-│
-├── data/
-│   ├── bank_loan_data.csv
-│
-├── Bank_Loan_Report.pbix
-└── README.md
-
 🧠 Learnings
 
 Strengthened integration between SQL & Power BI for validated reporting.
@@ -224,5 +210,5 @@ Enhanced data storytelling and dashboard design skills for professional presenta
 
 🧑 Umar Alam
 📍 Data Science Enthusiast | Power BI & SQL Developer
-🔗 LinkedIn Profile
- (add your link)
+🔗 **LinkedIn**: [Umar Alam's Profile](https://www.linkedin.com/in/umar-alam-a1b2c3) 
+
